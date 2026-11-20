@@ -1,0 +1,7 @@
+*.tar
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+*.Rproj
+rsconnect/
